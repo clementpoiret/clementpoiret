@@ -1,6 +1,6 @@
-<img align='right' src='illustration.png'>
-
 ### Hi there, I'm Clément 👋
+
+<img align='right' src='https://raw.githubusercontent.com/clementpoiret/clementpoiret/master/illustration.png'>
 
 I have a Master's degree in Games Analytics and Big Data, and I am a Ph.D. student in Neurosciences, and Deep Learning applied to Neurosciences.
 
