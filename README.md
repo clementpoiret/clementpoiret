@@ -52,8 +52,14 @@ class AboutMe:
 
 ### 📫 Come say hi!
 
+[![GitHub][GithubBadge]][GithubUrl]
 [![Twitter][TwitterBadge]][TwitterUrl]
+[![LinkedIn][LinkedinBadge]][LinkedinUrl]
 
-[TwitterBadge]: https://img.shields.io/badge/follow-@clement_poiret1-1DA1F2?logo=twitter&style=flat&logoColor=white&color=1da1f2
+[GithubBadge]: https://img.shields.io/badge/collaborate-github-171515?logo=github&logoColor=ffffff
+[TwitterBadge]: https://img.shields.io/badge/follow-twitter-1da1f2?logo=twitter&logoColor=ffffff
+[LinkedinBadge]: https://img.shields.io/badge/connect-LinkedIn-0a66c2?logo=linkedin&logoColor=ffffff
 
+[GithubUrl]: https://github.com/clementpoiret
 [TwitterUrl]: https://x.com/clement_poiret1
+[LinkedinUrl]: https://linkedin.com/in/clement-poiret
