@@ -1,4 +1,4 @@
-### Hi there, I'm Clément 👋
+<img src="https://github.com/clementpoiret/clementpoiret/blob/main/header.png" />
 
 <img align='right' src='https://raw.githubusercontent.com/clementpoiret/clementpoiret/master/illustration.png'>
 
