@@ -5,7 +5,7 @@ class AboutMe:
     """
     Hey, I'm Clément, a Linux power-user, with a Ph.D. in neurosciences.
     I'm a tech enthusiast, I like scripting and automating everything,
-    I love open source.
+    I love open source, and open science. I write papers on AI.
 
     Previously worked in: Android Reverse Engineering (SMALI),
                           Neuroinformatics.
