@@ -52,11 +52,8 @@ class AboutMe:
 
 ### 📫 Come say hi!
 
-<div>
-  <a href="https://github.com/clementpoiret" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/clement-poiret" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+[![Twitter][TwitterBadge]][TwitterUrl]
+
+[TwitterBadge]: https://img.shields.io/badge/follow-@clement_poiret1-1DA1F2?logo=twitter&style=flat&logoColor=white&color=1da1f2
+
+[TwitterUrl]: https://x.com/clement_poiret1
