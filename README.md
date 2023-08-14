@@ -13,19 +13,21 @@ class AboutMe:
     """
 
     def __init__(self):
-        self.is_phd: bool = True
-        self.phd_fields: List[str] = ["neurosciences", "deep learning"]
+        self.has_phd: bool = True
+        self.phd_fields: List[str] = ["neurosciences", "deep learning", "computer vision"]
 
     def get_expertise(self) -> Dict[List[str]]:
         return {
             "fields": [
                 "machine and deep learning",
+                "computer vision",
                 "neurosciences",
                 "web development",
                 "native development",
                 "devops",
                 "sysadmin",
-                "reverse engineering"
+                "reverse engineering",
+                "computer hardware"
             ],
             "tools": [
                 "pytorch", "tensorflow", "archlinux", "vim", "kitty", "zsh"
