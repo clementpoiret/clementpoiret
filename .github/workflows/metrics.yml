@@ -11,12 +11,6 @@ jobs:
     permissions:
       contents: write
     steps:
-        - name: Overview
-          uses: lowlighter/metrics@latest
-          with:
-            filename: imgs/overview.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-
         - name: Achievements
           uses: lowlighter/metrics@latest
           with:
