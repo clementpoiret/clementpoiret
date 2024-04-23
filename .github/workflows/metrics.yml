@@ -22,5 +22,5 @@ jobs:
           with:
             filename: imgs/languages.svg
             plugin_languages: yes
-            plugin_languages_ignored: jupyter
+            plugin_languages_ignored: "Jupyter Notebook"
             token: ${{ secrets.METRICS_TOKEN }}
