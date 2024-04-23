@@ -52,6 +52,8 @@ class AboutMe:
 
 ---
 
+![Overview](imgs/achievements.svg)
+
 ### 📫 Come say hi!
 
 [![GitHub][GithubBadge]][GithubUrl]
