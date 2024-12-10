@@ -1,18 +1,22 @@
 <img src="https://github.com/clementpoiret/clementpoiret/blob/master/header.png" />
 
 ```python
-class AboutMe:
-    """
-    Hey, I'm Clément, a Linux power-user, with a Ph.D. in neurosciences.
-    I'm a tech enthusiast, I like scripting and automating everything,
-    I love open source, and open science. I write papers on AI.
+class ClementPoiret:
+    """Linux power-user with a Ph.D. in neurosciences.
 
-    Previously worked in: Android Reverse Engineering (SMALI),
-                          Neuroinformatics.
-    Currently working in: AI (Computer Vision).
+    Clement a tech enthusiast who likes scripting and automating everything,
+    He loves open source and open science.
+
+    Previous works in:
+        - Android Reverse Engineering,
+        - Neuroinformatics.
+
+    Current work: CTO and AI Startup Co-founder (Computer Vision).
     """
 
     def __init__(self):
+        """Initializes a ClementPoiret from scratch."""
+
         self.has_phd: bool = True
         self.phd_fields: List[str] = ["neurosciences", "deep learning", "computer vision"]
 
@@ -27,10 +31,10 @@ class AboutMe:
                 "devops",
                 "sysadmin",
                 "reverse engineering",
-                "computer hardware"
+                "hardware",
             ],
             "tools": [
-                "pytorch", "tensorflow", "archlinux", "vim", "kitty", "zsh"
+                "pytorch", "tensorflow", "jax", "nixos", "neovim", "kitty", "nushell"
             ],
             "languages": [
                 "python", "(java/type)script", "julia", "dart", "html", "css", "smali", "lua"
@@ -45,9 +49,6 @@ class AboutMe:
             "dismantling computers",
             "philosophy (hi, Nietzsche!)"
         ]
-
-    def get_future_goals(self) -> str:
-        return "Develop expertise in Quantum Computing, and QML."
 ```
 
 ---
