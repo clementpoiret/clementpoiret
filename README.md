@@ -4,7 +4,7 @@
 class ClementPoiret:
     """Linux power-user with a Ph.D. in neurosciences.
 
-    Clement a tech enthusiast who likes scripting and automating everything,
+    A Clement is a tech enthusiast who likes scripting and automating everything,
     He loves open source and open science.
 
     Previous works in:
