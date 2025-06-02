@@ -25,6 +25,8 @@ jobs:
             dist/github-stats?username=clementpoiret&screen_effect=true&include_all_commits=true&theme=fuji&dithering=true
             dist/github-stats-dark?username=clementpoiret&theme=crt&include_all_commits=true
           github_token: ${{ secrets.GH_PAT }}
+        env:
+          PAT_1: ${{ secrets.GH_PAT }}
 
       - name: push github-stats to the output branch
         uses: crazy-max/ghaction-github-pages@v4
